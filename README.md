@@ -13,3 +13,5 @@ Controls:
   - z,x : rotate around x-axis
   - c,v : rotate around y-axis
   - b,n : rotate around z-axis
+
+Licensed under a Creative Commons BY 4.0 License.
